@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Mustafa ANKARALI. Greating from FRANCE</h1>
+<h1 align="center">I'm Mustafa ANKARALI. Greeting from FRANCE</h1>
 <h3 align="center"> After a 10 years Airlines experience, now a passionate Data Analyst and Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarali&label=Profile%20views&color=0e75b6&style=flat" alt="mankarali" /> </p>
