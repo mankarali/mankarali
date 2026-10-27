@@ -23,7 +23,7 @@ Bridging Aerospace Engineering, Artificial Intelligence and Industrial Operation
 
 - 🚀 Interested in AI Adoption, Digital Transformation, Automation and Operational Excellence
 
-- 🌍 Former International Manager and Instructor in the airline industry
+- 🌍 Former Country Manager and Instructor in the airline industry
 
 - 📫 Contact: **mustafaankarali35@gmail.com**
 
