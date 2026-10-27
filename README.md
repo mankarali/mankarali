@@ -1,59 +1,155 @@
 <h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Mustafa ANKARALI. Greeting from FRANCE</h1>
-<h3 align="center"> After a 10 years Airlines experience, now a passionate Data Analyst and Scientist </h3>
+<h1 align="center">I'm Mustafa ANKARALI</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mankarali&label=Profile%20views&color=0e75b6&style=flat" alt="mankarali" /> </p>
+<h3 align="center">
+Aeronautical Engineer | AI & Data Mentor | Industrial Digital Transformation
+</h3>
 
-- 🔭 I’m currently working on **Deep Learning with Keras API**
-
-- 🌱 I’m currently learning **Fraud Detection with Imbalanced Data**
-
-- 👯 I’m looking to collaborate on **NLP**
-
-- 💬 Ask me about **Python, Tableau, Microsoft Excel VBA, Google Sheets, MySQL, Microsoft SQL Server, JIRA, HTML / CSS, Streamlit, Shiny**
-
-- 📫 How to reach me **mustafaankarali35@gmail.com**
-
-- ⚡ Fun fact **I like travelling differents countries. I enjoy litterature (writing poetry in French). Makes me feel very good**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaankarali/)
-[![](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/en-us/s/profile/mustafa.ankarali#!/)
-
+<p align="center">
+Bridging Aerospace Engineering, Artificial Intelligence and Industrial Operations
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Jupyter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
-<img align="left" alt="SQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
-<img align="left" alt="Tensorflow" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
+## About Me
 
-<img align="left" alt="Keras" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png"/>
+- ✈ Aeronautical Engineer passionate about Aircraft Design, Flight Performance and Aerodynamics
 
-<img align="left" alt="Spark" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/582px-Apache_Spark_logo.svg.png"/>
+- 🤖 AI & Data Mentor at OpenClassrooms for more than 5 years
 
-<img align="left" alt="Scikit Learn" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqe8229UE1DsRYR06QaKSop6cyWqcewXbXw&usqp=CAU" />
+- 🏭 Industrial professional currently working in the Aerospace Industry
 
-<img align="left" alt="Pandas" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
+- 📊 Experienced in Data Analytics, Business Intelligence, Machine Learning and Process Improvement
 
-<img align="left" alt="AWS" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png"/>
+- 🚀 Interested in AI Adoption, Digital Transformation, Automation and Operational Excellence
 
-<img align="left" alt="Tableau" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVw8Ka8GJ6Oqnjwdj47ZIPyFijvcLJgqKhfg&usqp=CAU" />
+- 🌍 Former International Manager and Instructor in the airline industry
 
-<img align="left" alt="HTML" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"/>
+- 📫 Contact: **mustafaankarali35@gmail.com**
 
-<img align="left" alt="CSS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"/>
+---
 
-<img align="left" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+## Current Areas of Interest
 
-</p>
+- Artificial Intelligence & Generative AI
+- Microsoft Copilot & AI Agents
+- Industrial Digital Transformation
+- Process Automation
+- Machine Learning
+- Aerospace Engineering
+- Aircraft Performance
+- Aircraft Conceptual Design
+- Engineering Optimization
 
+---
 
+## Featured Aerospace Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mankarali&show_icons=true&locale=en&layout=compact" alt="mankarali" /></p>
+### ✈ Aircraft Performance
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mankarali&show_icons=true&locale=en" alt="mankarali" /></p>
+Development of engineering notebooks inspired by Francis J. Hale's methodologies covering:
+
+- Flight Performance
+- Climb Performance
+- Cruise Performance
+- Mission Analysis
+- Aircraft Sizing
+
+### ✈ Aircraft Design
+
+Projects inspired by Daniel Raymer's Aircraft Design methodology:
+
+- Conceptual Aircraft Design
+- Weight Estimation
+- Constraint Analysis
+- Preliminary Sizing
+- Trade Studies
+
+### ✈ Aerospace Data Science
+
+- Aircraft Engine Remaining Useful Life (RUL) Prediction
+- Predictive Maintenance
+- Machine Learning for Aerospace Applications
+
+### ✈ Aerodynamics
+
+- NACA Airfoils
+- Compressible Flow
+- Aerodynamic Analysis
+- CATIA Integration
+
+---
+
+## Core Skills
+
+### Artificial Intelligence & Data
+
+- Python
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Prompt Engineering
+- SQL
+
+### Business Intelligence
+
+- Power BI
+- Tableau
+- Excel VBA
+- Data Visualization
+
+### Industrial Transformation
+
+- Process Analysis
+- Continuous Improvement
+- Change Management
+- User Training
+- AI Adoption
+
+### Engineering
+
+- Aircraft Design
+- Flight Performance
+- Aerodynamics
+- CATIA V5
+
+---
+
+## Professional Experience Highlights
+
+### OpenClassrooms
+AI, Data Analyst & Data Science Mentor
+
+- Coaching learners and professionals
+- Project evaluation
+- Technical mentoring
+- AI and Data upskilling
+
+### DAHER Aerospace
+Industrial Quality & Operations
+
+- Production support
+- Process analysis
+- Continuous improvement
+- Operational problem solving
+
+### Turkish Airlines
+
+- Business Intelligence
+- Revenue Management
+- International Operations
+- User Training
+- Reservation Systems Instructor
+
+---
+
+## Philosophy
+
+> Technology creates value only when it is understood, adopted and effectively used by people.
+
+---
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/mustafaankarali/
+- GitHub: https://github.com/mankarali
