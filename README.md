@@ -128,6 +128,7 @@ AI, Data Analyst & Data Science Mentor
 ### DAHER Aerospace
 Industrial Quality & Operations
 
+- Quality Control
 - Production support
 - Process analysis
 - Continuous improvement
@@ -137,11 +138,35 @@ Industrial Quality & Operations
 
 - Business Intelligence
 - Revenue Management
-- International Operations
-- User Training
+- International Operations (Country Manager)
 - Reservation Systems Instructor
+- User Training & Knowledge Transfer
+
+### CADEM
+
+CATIA V5 Trainer & Aerospace Engineering
+
+- CATIA V5 training delivery
+- Technical documentation
+- User support and coaching
+- Dassault Systèmes certified training activities
 
 ---
+## Training & Knowledge Transfer
+
+For more than 15 years, I have been involved in technical training, coaching and knowledge transfer through different roles:
+
+- CATIA V5 Trainer (CADEM)
+- Reservation Systems Instructor (Turkish Airlines)
+- AI, Data Analyst & Data Science Mentor (OpenClassrooms)
+
+This experience helped me develop strong capabilities in:
+- Technical communication
+- User adoption
+- Change management
+- Workshop facilitation
+- Digital upskilling
+
 
 ## Philosophy
 
